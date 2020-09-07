@@ -1,0 +1,41 @@
+*.log
+
+# OS-generated garbage
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Python-specific garbage
+*.pyc
+/bin/
+/build/
+/lib/
+/lib64
+/include/
+/share/
+/.Python
+/pip-selfcheck.json
+/nohup.out
+/pyvenv.cfg
+
+# Vagrant garbage
+/.vagrant
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml

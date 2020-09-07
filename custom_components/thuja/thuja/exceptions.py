@@ -1,0 +1,2 @@
+class ThujaError(Exception):
+    pass
