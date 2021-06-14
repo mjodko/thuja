@@ -2,6 +2,7 @@
   "domain": "thuja",
   "name": "Thuja",
   "documentation": "https://github.com/mjodko/thuja",
+  "version": "0.1.0",
   "dependencies": [],
   "codeowners": [],
   "requirements": []
